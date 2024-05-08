@@ -49,6 +49,9 @@
 
 ## Output:
 
+![image](https://github.com/shadhanashree22/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150231910/c9c3b9e6-b709-41f5-8856-d989988aade6)
+
+
 ### Name: S V SHADHANASHREE
 ### Register Number: 212223230202
 
